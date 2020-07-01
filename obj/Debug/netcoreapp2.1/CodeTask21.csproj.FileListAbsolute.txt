@@ -1,0 +1,30 @@
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.deps.json
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.runtimeconfig.json
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.runtimeconfig.dev.json
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.dll
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.pdb
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.AssemblyInfoInputs.cache
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.AssemblyInfo.cs
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.csproj.CoreCompileInputs.cache
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.RazorAssemblyInfo.cache
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.RazorAssemblyInfo.cs
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.RazorTargetAssemblyInfo.cache
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.dll
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.pdb
+C:\Users\lohrma\OneDrive - Schwarz IT\Desktop\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.genruntimeconfig.cache
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.deps.json
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.runtimeconfig.json
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.runtimeconfig.dev.json
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.dll
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\bin\Debug\netcoreapp2.1\CodeTask21.pdb
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.csproj.CoreCompileInputs.cache
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.RazorAssemblyInfo.cache
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.RazorAssemblyInfo.cs
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.AssemblyInfoInputs.cache
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.AssemblyInfo.cs
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.RazorTargetAssemblyInfo.cache
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.dll
+C:\Users\varun\Documents\Visual Studio 2017\SampleCode2\SampleCode\CodingTask2.1\CodeTask2.1\CodeTask2.1\obj\Debug\netcoreapp2.1\CodeTask21.pdb
